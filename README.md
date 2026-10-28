@@ -2,7 +2,7 @@
 
 A GenAI planning assistant for weddings, birthdays and community events (college fests, society pujas, meetups). You chat in English or Hindi, and a Gemini agent keeps a live plan in sync: budget, timeline, vendor checklist, RSVPs and ideas.
 
-**Live:** LIVE_URL
+**Live:** https://community-event-copilot.vercel.app
 
 ## Problem statement
 
